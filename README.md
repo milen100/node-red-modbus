@@ -14,5 +14,5 @@ Refer Scope document - <a href="https://github.com/nzfarmer1/node-red-modbus/blo
 
 Sponsors:
 
-Andrew McClure http://agsense.co.nz
-Lawrence Griffiths
+- Andrew McClure http://agsense.co.nz
+- Lawrence Griffiths
