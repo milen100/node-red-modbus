@@ -10,7 +10,7 @@ Overview:
 - See examples here: https://github.com/node-red/node-red/tree/master/nodes/core/io
 - Use modbus node: https://www.npmjs.com/package/modbus for protocol stack
 
-Refer Scope document - <a href="https://github.com/nzfarmer1/node-red-modbus/blob/master/scope.txt">scope.txt </a>
+Refer <a href="https://github.com/nzfarmer1/node-red-modbus/blob/master/scope.md">Scoping</a> document
 
 Sponsors:
 
