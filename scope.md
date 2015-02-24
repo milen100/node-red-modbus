@@ -1,7 +1,7 @@
 Overview:
 
-- Create 3 node-red compatible nodes:  modbus-in; modbus-out; modbus-config.
-- Follow node-red coding convetions
+- Create 3 node-red compatible nodes:  modbus-in; modbus-out; modbus-config
+- Follow node-red coding conventions
 - See examples here: https://github.com/node-red/node-red/tree/master/nodes/core/io
 - Use modbus node: https://www.npmjs.com/package/modbus for protocol stack
 
@@ -10,7 +10,7 @@ Overview:
 - Modbus RTU needs to be unique by slaveId, device and baud (see Assumptions)
 - Specify whether slave or master (modbus-in only)
 - Config node needs a name and label identifying type and connection paramaters (summary).
-- Config node exposes its connection params, mode (slave/master), name and connection contexti (ctx)  - see server.js example
+- Config node exposes its connection params, mode (slave/master), name and connection context (ctx)  - see server.js example
 
 .js for config nodes
 - Supports both slave and master modes
